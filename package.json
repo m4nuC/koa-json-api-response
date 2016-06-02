@@ -1,0 +1,11 @@
+{
+  "name": "koa-json-response",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Chappat <emmanuel.chappat@gmail.com>",
+  "license": "ISC"
+}
